@@ -2,6 +2,6 @@
 
 this is my first github repo for data nabalysis. Spring 2023 
 
-##Project by
+## Project by
 Sajina Shrestha 
 Hinata Shouyo
